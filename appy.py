@@ -6,7 +6,7 @@ import streamlit as st
 col1, col2 = st.columns([1, 2.2]) # The ratio [1, 2] means col2 is twice as wide as col1.
 
 with col1:
-    st.image("/Users/renataroblesvelasco/Library/CloudStorage/OneDrive-up.edu.mx/Intercambio_/Requisitos Intercambio_/Renata Robles Velasco - Foto Digital.jpeg", caption="", width=140)
+    
     
     st.subheader("Información de Contacto")
     st.write("""
