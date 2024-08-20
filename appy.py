@@ -7,7 +7,7 @@ col1, col2 = st.columns([1, 2.2]) # The ratio [1, 2] means col2 is twice as wide
 
 with col1:
     
-    st.image("Foto tamaño pasaporte.png", width=160)
+    st.image("Foto tamaño pasaporte.png", width=160)
     st.subheader("Información de Contacto")
     st.write("""
     **Nombre:** Renata Sofía Robles Velasco  
