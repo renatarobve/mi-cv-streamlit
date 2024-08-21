@@ -35,7 +35,7 @@ with col1:
 with col2:
     # Basic Info
     st.title("Estudiante de Administración y Finanzas")
-    ------------
+    st.markdown("---------------------")
     
 
     # Summary or Objective
